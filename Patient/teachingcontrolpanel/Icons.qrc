@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="terminal">BeOS_terminal.png</file>
+        <file alias="bulb">1315687325_lightbulb.png</file>
+        <file alias="lock">1315689278_lock_unlock.png</file>
+        <file alias="cpanel">control_panel_access.png</file>
+        <file>KEYBOARD MOUSE - SETTINGS.png</file>
+    </qresource>
+</RCC>

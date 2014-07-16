@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bodymap">bodymap2.png</file>
+        <file alias="happy">happy0.png</file>
+        <file alias="hurtslittle5">5hurtslittle.png</file>
+        <file alias="10worst">10worst.png</file>
+        <file alias="sadico">too-sad.ico</file>
+    </qresource>
+</RCC>
